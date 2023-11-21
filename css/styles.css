@@ -19,3 +19,11 @@ body
 {
     font-size: 20px;
 }
+#cabecera
+{
+    font-weight: bold;
+    background: #B8F;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
